@@ -1,0 +1,28 @@
+.avatar__container {
+    text-align: center;
+    height: 300px;
+    position: relative;
+    display: flex;
+    flex-direction: column-reverse;
+    .avatar__img {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        margin: auto;
+        width: 116px;
+        height: 116px;
+        border-radius: 50%;
+        background: #DEDEDE;
+        border: 1px solid #B1B1B1;
+        img {
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            margin: auto;
+        }
+    }
+}

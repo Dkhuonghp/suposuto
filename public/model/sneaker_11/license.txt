@@ -1,0 +1,11 @@
+Model Information:
+* title:	red-sneaker
+* source:	https://sketchfab.com/3d-models/red-sneaker-225a62d0a7d94f4cbdc9e51f57f2654a
+* author:	irvinlin (https://sketchfab.com/irvinlin)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "red-sneaker" (https://sketchfab.com/3d-models/red-sneaker-225a62d0a7d94f4cbdc9e51f57f2654a) by irvinlin (https://sketchfab.com/irvinlin) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

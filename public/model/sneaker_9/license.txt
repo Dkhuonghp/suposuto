@@ -1,0 +1,11 @@
+Model Information:
+* title:	Salomon OUTline GTX Boot
+* source:	https://sketchfab.com/3d-models/salomon-outline-gtx-boot-5e24610ab910434b8e40b2a83199e98d
+* author:	inciprocal (https://sketchfab.com/inciprocal.com)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Salomon OUTline GTX Boot" (https://sketchfab.com/3d-models/salomon-outline-gtx-boot-5e24610ab910434b8e40b2a83199e98d) by inciprocal (https://sketchfab.com/inciprocal.com) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

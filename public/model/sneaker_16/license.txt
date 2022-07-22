@@ -1,0 +1,11 @@
+Model Information:
+* title:	4F Running shoe by DigitWorlds 8k textures
+* source:	https://sketchfab.com/3d-models/4f-running-shoe-by-digitworlds-8k-textures-8833668de7ae455db5eade615137410e
+* author:	Przemek Gesicki - DigitWorlds (https://sketchfab.com/DigitWorlds)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "4F Running shoe by DigitWorlds 8k textures" (https://sketchfab.com/3d-models/4f-running-shoe-by-digitworlds-8k-textures-8833668de7ae455db5eade615137410e) by Przemek Gesicki - DigitWorlds (https://sketchfab.com/DigitWorlds) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

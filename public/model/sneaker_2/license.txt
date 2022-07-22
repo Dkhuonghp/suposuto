@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sneakers
+* source:	https://sketchfab.com/3d-models/sneakers-50725ef7d75d4898be0640700cd31c8d
+* author:	frezer2011 (https://sketchfab.com/frezer2011)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sneakers" (https://sketchfab.com/3d-models/sneakers-50725ef7d75d4898be0640700cd31c8d) by frezer2011 (https://sketchfab.com/frezer2011) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

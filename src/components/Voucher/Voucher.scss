@@ -1,0 +1,123 @@
+// .input {
+//   margin-right: 10px;
+// }
+
+#voucher {
+    width: 100%;
+    height: fit-content;
+    // background-color: white;
+    // padding: 16px;
+    // box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+  
+  .voucher-and-payment-header {
+    font-size: 20px;
+    color: #222;
+    margin-bottom: 12px;
+    font-weight: 600;
+  }
+  
+  #apply-voucher {
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 14px;
+  }
+  
+  #apply-voucher input {
+    width: 65.87%;
+    padding: 8px;
+    border: 1px solid #707070;
+    color: rgba(0, 0, 0, 0.6);
+    border-radius: 5px;
+    outline: none;
+  }
+  #apply-voucher button {
+    width: 31.74%;
+    padding: 8px;
+    border: none;
+    border-radius: 5px;
+    outline: none;
+    background-color: #fb0000;
+    color: white;
+    transition: all .3s;
+  }
+  #apply-voucher button {
+    font-size: 16px;
+    width: 31.74%;
+    height: 48px;
+    padding: 8px;
+    border: none;
+    border-radius: 5px;
+    outline: none;
+    background-color: #fb0000;
+    color: white;
+    transition: all .3s;
+  }
+  #apply-voucher button:hover {
+    background-color: #bd0000;
+  }
+  #result-apply-voucher {
+    width: 100%;
+    color: #fb0000;
+  }
+  #result-apply-voucher.hide {
+    display: none;
+  }
+  #result-apply-voucher.pass {
+    color: #4dd664;
+  }
+  #alert-result {
+    /* font-weight: 600; */
+    font-size: 14px;
+    margin-top: 12px !important;
+  }
+  
+  #result-voucher {
+    font-weight: 600;
+    margin-top: 8px !important;
+    color: #222;
+  }
+  
+  #payment {
+    width: 100%;
+    background-color: white;
+    // padding: 16px;
+    // box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+  }
+  
+  .payment-line {
+    width: 100%;
+    font-size: 16px;
+    line-height: 24px;
+    margin-bottom: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: #222;
+  }
+  
+  #total-voucher {
+    font-weight: 600;
+    color: #eb2121;
+  }
+  #total-payment {
+    font-weight: 600;
+    font-size: 20px;
+    color: black;
+    margin-right: 10px;
+    &::after {
+      content: "(税込)";
+      font-size: 0.6em;
+      padding-left: 2px;
+    }
+  }
+  
+  .total-voucher.hide {
+    display: none;
+  }

@@ -1,0 +1,11 @@
+Model Information:
+* title:	ad sneaker
+* source:	https://sketchfab.com/3d-models/ad-sneaker-c07b9a49840d4fa4b7443d4ae017d7c3
+* author:	Dana Morrison (https://sketchfab.com/DanaMorrison)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "ad sneaker" (https://sketchfab.com/3d-models/ad-sneaker-c07b9a49840d4fa4b7443d4ae017d7c3) by Dana Morrison (https://sketchfab.com/DanaMorrison) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

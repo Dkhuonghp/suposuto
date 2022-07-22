@@ -1,0 +1,11 @@
+Model Information:
+* title:	Adidas Ultra Boost by DigitWorlds.com
+* source:	https://sketchfab.com/3d-models/adidas-ultra-boost-by-digitworldscom-970837ea5a924a0e85f820ebc092e499
+* author:	Przemek Gesicki - DigitWorlds (https://sketchfab.com/DigitWorlds)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Adidas Ultra Boost by DigitWorlds.com" (https://sketchfab.com/3d-models/adidas-ultra-boost-by-digitworldscom-970837ea5a924a0e85f820ebc092e499) by Przemek Gesicki - DigitWorlds (https://sketchfab.com/DigitWorlds) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

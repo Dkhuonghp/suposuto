@@ -1,0 +1,11 @@
+Model Information:
+* title:	New Balance 574 sneaker
+* source:	https://sketchfab.com/3d-models/new-balance-574-sneaker-9c823c81e63a4b9a8a4c9b93cc81d13e
+* author:	Vincent Page (https://sketchfab.com/vincentpage)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "New Balance 574 sneaker" (https://sketchfab.com/3d-models/new-balance-574-sneaker-9c823c81e63a4b9a8a4c9b93cc81d13e) by Vincent Page (https://sketchfab.com/vincentpage) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
